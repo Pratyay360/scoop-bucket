@@ -1,0 +1,29 @@
+{
+    "version": "0.2-13",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/pratyay360/forgit/releases/download/v0.2-13/forgit_Windows_i386.zip",
+            "bin": [
+                "forgit.exe"
+            ],
+            "hash": "4026e58053b328f1b5038823aed04bd9ae6fd2076dc855ce92cb5ee9c0b996eb"
+        },
+        "64bit": {
+            "url": "https://github.com/pratyay360/forgit/releases/download/v0.2-13/forgit_Windows_x86_64.zip",
+            "bin": [
+                "forgit.exe"
+            ],
+            "hash": "7dfb8dd9ec4a4f6a2b4eef5701749404070df9e14e2748650ab71f87d3aef709"
+        },
+        "arm64": {
+            "url": "https://github.com/pratyay360/forgit/releases/download/v0.2-13/forgit_Windows_arm64.zip",
+            "bin": [
+                "forgit.exe"
+            ],
+            "hash": "7e83988d4e2cfdc462e39c82e97282bb942b496c10162c830b0507b27395538e"
+        }
+    },
+    "homepage": "https://github.com/pratyay360/forgit",
+    "license": "Apache-2.0",
+    "description": "A simple git helper"
+}
