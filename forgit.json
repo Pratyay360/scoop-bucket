@@ -1,26 +1,26 @@
 {
-    "version": "0.2-13",
+    "version": "0.3.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/pratyay360/forgit/releases/download/v0.2-13/forgit_Windows_i386.zip",
+            "url": "https://github.com/pratyay360/forgit/releases/download/v0.3.0/forgit_Windows_i386.zip",
             "bin": [
                 "forgit.exe"
             ],
-            "hash": "4026e58053b328f1b5038823aed04bd9ae6fd2076dc855ce92cb5ee9c0b996eb"
+            "hash": "4a703aeddfe279d568a4be1d49b34968754aa27b9a5a5d1e1b8dceeb8151baa9"
         },
         "64bit": {
-            "url": "https://github.com/pratyay360/forgit/releases/download/v0.2-13/forgit_Windows_x86_64.zip",
+            "url": "https://github.com/pratyay360/forgit/releases/download/v0.3.0/forgit_Windows_x86_64.zip",
             "bin": [
                 "forgit.exe"
             ],
-            "hash": "7dfb8dd9ec4a4f6a2b4eef5701749404070df9e14e2748650ab71f87d3aef709"
+            "hash": "da3fe0b12b6e409194f4c9ab34469483bf76aaa9066371cd65daf9a4b9dd0881"
         },
         "arm64": {
-            "url": "https://github.com/pratyay360/forgit/releases/download/v0.2-13/forgit_Windows_arm64.zip",
+            "url": "https://github.com/pratyay360/forgit/releases/download/v0.3.0/forgit_Windows_arm64.zip",
             "bin": [
                 "forgit.exe"
             ],
-            "hash": "7e83988d4e2cfdc462e39c82e97282bb942b496c10162c830b0507b27395538e"
+            "hash": "f1fae1f864b46459f65923b9525b863d4dd4bb25ccbe43d57f7583e88af4a0b0"
         }
     },
     "homepage": "https://github.com/pratyay360/forgit",
