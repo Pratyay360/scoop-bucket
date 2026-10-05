@@ -1,26 +1,26 @@
 {
-    "version": "0.4.3-2",
+    "version": "0.4.3-3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Pratyay360/ensor/releases/download/v0.4.3-2/ensor_Windows_i386.zip",
+            "url": "https://github.com/Pratyay360/ensor/releases/download/v0.4.3-3/ensor_Windows_i386.zip",
             "bin": [
                 "ensor.exe"
             ],
-            "hash": "417eed05f36a70aa2dd305cb6ca490cb13d0db65c7300a957bd31a6b72f47f55"
+            "hash": "8f318d6ef0622588da36f23a1a13c86393621993a815ca02707a30e3b3302966"
         },
         "64bit": {
-            "url": "https://github.com/Pratyay360/ensor/releases/download/v0.4.3-2/ensor_Windows_x86_64.zip",
+            "url": "https://github.com/Pratyay360/ensor/releases/download/v0.4.3-3/ensor_Windows_x86_64.zip",
             "bin": [
                 "ensor.exe"
             ],
-            "hash": "c4fc3e064f7ccdba127b4450287aad9e654c4a6b25232d399e32fd9e70252911"
+            "hash": "45290c95c94d470ed48d6657f97060ec92f882f2c0d0f9c6e6659a5a897eddc0"
         },
         "arm64": {
-            "url": "https://github.com/Pratyay360/ensor/releases/download/v0.4.3-2/ensor_Windows_arm64.zip",
+            "url": "https://github.com/Pratyay360/ensor/releases/download/v0.4.3-3/ensor_Windows_arm64.zip",
             "bin": [
                 "ensor.exe"
             ],
-            "hash": "b40dba3e5d0b669911e7307fa93b55e3063ae3b21be1c1ea8800900eb232a528"
+            "hash": "a21f8874f372d8a2d79268fea197da2fed554d102cfee3bde0f797c252e9b3e9"
         }
     },
     "homepage": "https://github.com/pratyay360/ensor",
