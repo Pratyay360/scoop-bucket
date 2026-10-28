@@ -1,29 +1,29 @@
 {
-    "version": "0.4.8",
+    "version": "0.5.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/Pratyay360/ensor/releases/download/0.4.8/ensor_Windows_i386.zip",
+            "url": "https://github.com/Pratyay360/ensor/releases/download/0.5.0/ensor_Windows_i386.zip",
             "bin": [
                 "ensor.exe"
             ],
-            "hash": "97ca0116a536ccb2ae631d824661a093f883f9434dc3a104dbb17c4a8c46a3a0"
+            "hash": "5d8965fed4df3f276fdaae6146fee5c5abe4a026773c752d35312a4a99b4ffff"
         },
         "64bit": {
-            "url": "https://github.com/Pratyay360/ensor/releases/download/0.4.8/ensor_Windows_x86_64.zip",
+            "url": "https://github.com/Pratyay360/ensor/releases/download/0.5.0/ensor_Windows_x86_64.zip",
             "bin": [
                 "ensor.exe"
             ],
-            "hash": "9cc0ba0ebe26361230a2f084e4a6cb8b2f1f069d1bb6d1a43fe431bef8eb91de"
+            "hash": "ad10b00ae362cc17d87164c591edb2080df4064bdcdbb8054c16df0ff6b31030"
         },
         "arm64": {
-            "url": "https://github.com/Pratyay360/ensor/releases/download/0.4.8/ensor_Windows_arm64.zip",
+            "url": "https://github.com/Pratyay360/ensor/releases/download/0.5.0/ensor_Windows_arm64.zip",
             "bin": [
                 "ensor.exe"
             ],
-            "hash": "165a06c3ef8bca903495c0d0f208d9015ddbca5e147c7b9010701ab71ce10611"
+            "hash": "6575150cf5e8eafdd30c8136a3c5c3a87496b85ec5ddb21e8f8fd625ad0a13b5"
         }
     },
     "homepage": "https://github.com/Pratyay360/ensor",
     "license": "Apache-2.0",
-    "description": "A simple tool to censor secrets from code base"
+    "description": "A simple tool to censor/redact secrets from code base"
 }
